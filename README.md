@@ -42,5 +42,5 @@ Se você tiver alguma pergunta ou sugestão, contate:
 - [1] NetworkX Developers. (2024). Documentação da Networkx. Reirado em 17 de junho de 2024 de https://networkx.github.io/
 - [2] Qiaoyan Yang. Application of Genetic Algorithms in Graph Theory and Optimization. 2016
 
-Obrigado por visitar meu algoritmo! Happy Coding!
+Obrigado por visitar meu repositório! Happy Coding!
 
