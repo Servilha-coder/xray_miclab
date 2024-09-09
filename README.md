@@ -15,7 +15,7 @@ Não estava muito ambientado ainda a utilizar as práticas do docker. Portanto t
 
 **Resultado:**
 
-<img src="Documentos/raiox.jpeg" alt="Grafo" width="350" height="50"/>
+<img src="Documentos/raiox.jpeg" alt="Grafo" width="350" height="500"/>
 
 
 Observe a saída, que mostrará o caminho mais curto encontrado e sua distância.
