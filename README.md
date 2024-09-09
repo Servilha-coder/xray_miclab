@@ -10,8 +10,8 @@ O repositório está separado em dois códigos diferentes para manter a ordem e 
 
   
 
-### Exemplo
-Aqui está um exemplo de resultado que você obterá com o algoritmo.
+### Maiores dificuldades encontradas no desafio
+Não estava muito ambientado ainda a utilizar as práticas do docker. Portanto tive que fazer uma pesquisa a parte sobre isso na internet. Pela questão de tempo, foi difícil implementar os arquivos e organizar de maneira ótima para o entendimento de terceiros, mas estou a disposição de tirar qualquer dúvida que seja. Em suma, creio que a parte de implementação do código em si foi bem tranquila, o empecilho foi somente na utilização desses novos meios nos quais não estava ambientado ainda.
 
 **Grafo plotado:**
 
