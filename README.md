@@ -1,7 +1,7 @@
 # xray_miclab
 
 **Objetivo;**
-O objetivo desse código é de treinar e classificar arquvos dicom e interagir com Orthanc
+O objetivo desse código é de treinar e classificar arquivos dicom e interagir com Orthanc
 
 
 **Disclaimer**
