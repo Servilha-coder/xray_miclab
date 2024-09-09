@@ -33,8 +33,8 @@ Se você tiver alguma pergunta ou sugestão, contate:
 - sergio23040@ilum.cnpem.br
 
 ## Referências
-- [1] NetworkX Developers. (2024). Documentação da Networkx. Reirado em 17 de junho de 2024 de https://networkx.github.io/
-- [2] Qiaoyan Yang. Application of Genetic Algorithms in Graph Theory and Optimization. 2016
-
+- [1] Torchxrayxision. Repositório da biblioteca torchxrayvision. Retirado em 09 de setembro de 2024 de https://github.com/mlmed/torchxrayvision
+- [2] Orthanc. Documentação do orthanc. Retirado em 09 de setembro de 2024.  https://orthanc.uclouvain.be/book/index.html
+- . Application of Genetic Algorithms in Graph Theory and Optimization. 201
 Obrigado por visitar meu repositório! Happy Coding!
 
