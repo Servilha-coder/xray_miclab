@@ -6,7 +6,7 @@ O objetivo desse código é de treinar e classificar arquivos dicom e interagir 
 
 **Disclaimer**
 
-O repositório está separado em dois códigos diferentes para manter a ordem e a limpeza dos arquivos. O notebook [`definitivo.ipynb`](definitivo.ipynb) foca no meu raciocínio e implementação do código, enquanto o [`main.py`](main.py) é o código utilizado na prática. 
+O repositório está separado em dois códigos diferentes para manter a ordem e a limpeza dos arquivos. O notebook [`definitivo.ipynb`](definitivo.ipynb) foca no meu raciocínio e implementação do código, enquanto o [`main.py`](main.py) é o código utilizado na prática. Os resultados como combinado no enunciado estão em [`predições.json`](predições.json)
 
   
 
