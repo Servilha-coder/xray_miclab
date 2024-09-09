@@ -33,8 +33,8 @@ Se você tiver alguma pergunta ou sugestão, contate:
 - sergio23040@ilum.cnpem.br
 
 ## Referências
-- [1] Torchxrayxision. Repositório da biblioteca torchxrayvision. Retirado em 09 de setembro de 2024 de https://github.com/mlmed/torchxrayvision
-- [2] Orthanc. Documentação do orthanc. Retirado em 09 de setembro de 2024.  https://orthanc.uclouvain.be/book/index.html
+- [1] Torchxrayxision. Repositório da biblioteca torchxrayvision. Retirado em 09 de setembro de 2024. Disponível em: https://github.com/mlmed/torchxrayvision
+- [2] Orthanc. Documentação do orthanc. Retirado em 09 de setembro de 2024. Disponível em: https://orthanc.uclouvain.be/book/index.html
 
 Obrigado por visitar meu repositório! Happy Coding!
 
