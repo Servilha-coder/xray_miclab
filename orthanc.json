@@ -1,0 +1,11 @@
+{
+  "Name": "Orthanc",
+  "AuthenticationEnabled": false,
+  "HttpPort": 8042,
+  "DicomAet": "ORTHANC",
+  "DicomPort": 4242,
+  "Plugins": [
+    "/path/to/plugin1.so",
+    "/path/to/plugin2.so"
+  ]
+}
