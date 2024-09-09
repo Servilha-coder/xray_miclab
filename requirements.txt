@@ -4,6 +4,3 @@ torchxrayvision
 pydicom
 requests
 scikit-image
-json
-warnings
-os
