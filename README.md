@@ -13,14 +13,9 @@ O repositório está separado em dois códigos diferentes para manter a ordem e 
 ### Maiores dificuldades encontradas no desafio
 Não estava muito ambientado ainda a utilizar as práticas do docker. Portanto tive que fazer uma pesquisa a parte sobre isso na internet. Pela questão de tempo, foi difícil implementar os arquivos e organizar de maneira ótima para o entendimento de terceiros, mas estou a disposição de tirar qualquer dúvida que seja. Em suma, creio que a parte de implementação do código em si foi bem tranquila, o empecilho foi somente na utilização desses novos meios nos quais não estava ambientado ainda.
 
-**Grafo plotado:**
-
-
-<img src="grafo.jpeg" alt="Grafo" width="600" height="400"/>
-
 **Resultado:**
 
-<img src="resultado.jpeg" alt="Grafo" width="350" height="50"/>
+<img src="Documentos/raiox.jpeg" alt="Grafo" width="350" height="50"/>
 
 
 Observe a saída, que mostrará o caminho mais curto encontrado e sua distância.
