@@ -18,7 +18,6 @@ Não estava muito ambientado ainda a utilizar as práticas do docker. Portanto t
 <img src="Documentos/raiox.jpeg" alt="Grafo" width="350" height="500"/>
 
 
-Observe a saída, que mostrará o caminho mais curto encontrado e sua distância.
 
 ### Contribuições
 Contribuições são bem-vindas! Por favor, siga estes passos:
