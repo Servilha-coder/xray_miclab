@@ -4,3 +4,4 @@ torchxrayvision
 pydicom
 requests
 scikit-image
+ipython
